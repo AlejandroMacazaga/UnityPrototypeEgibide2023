@@ -10,8 +10,8 @@ namespace Entities.Potions.BasePotion.Scripts
 {
     public class PotionBehavior : EntityControler
     {
-
-        [SerializeField] private BasePotionData data;
+        protected bool IsDestroyed = false;
+        [SerializeField] protected BasePotionData data;
         private bool _canBounce = true;
         private bool _hasBeenHitted = false;
         public static event Action<GameObject> OnPotionDestroy;
@@ -21,6 +21,11 @@ namespace Entities.Potions.BasePotion.Scripts
             InvulnerableTime = 0.1f;
             GetComponent<Rigidbody2D>().angularVelocity = Random.Range(-200, 200);
             StartCoroutine(DestroyPotionWhenTooFar());
+        }
+        
+        protected void RaiseOnPotionDestroy(GameObject go)
+        {
+            OnPotionDestroy?.Invoke(go);
         }
         
         public override void OnReceiveDamage(AttackComponent.AttackData attack, bool facingRight = true)
@@ -70,9 +75,11 @@ namespace Entities.Potions.BasePotion.Scripts
 
         protected virtual void Explode()
         {   
+            if (IsDestroyed) return;
             Instantiate(data.explosion, transform.position, Quaternion.identity);
             Destroy(gameObject);
-            OnPotionDestroy?.Invoke(gameObject);
+            RaiseOnPotionDestroy(gameObject);
+            IsDestroyed = true;
         }
 
         private IEnumerator DestroyPotionWhenTooFar()
