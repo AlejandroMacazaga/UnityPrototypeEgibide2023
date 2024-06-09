@@ -98,7 +98,7 @@ GameObject:
   - component: {fileID: 5705866486560328241}
   m_Layer: 10
   m_Name: BounceProjectile
-  m_TagString: Untagged
+  m_TagString: Damage
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -113,7 +113,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.25, y: 0.25, z: 0.25}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 4792592137962598581}
@@ -132,10 +132,10 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 5
+  m_Mass: 15
   m_LinearDrag: 0
   m_AngularDrag: 0
-  m_GravityScale: 0
+  m_GravityScale: 2
   m_Material: {fileID: 6200000, guid: 458aa7d5adac29d47b50a25ff42e38a0, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
@@ -205,9 +205,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   delay: 0
-  damageActiveTime: 5
-  destroyTime: 5
-  speed: 5
+  damageActiveTime: 3
+  destroyTime: 3
+  speed: 1
   _audios: {fileID: 0}
 --- !u!1 &9015865109423164488
 GameObject:
@@ -220,9 +220,9 @@ GameObject:
   - component: {fileID: 4792592137962598581}
   - component: {fileID: 7597567395234086809}
   - component: {fileID: 1566486887972081695}
-  m_Layer: 10
+  m_Layer: 16
   m_Name: Hitbox
-  m_TagString: Untagged
+  m_TagString: Damage
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -255,11 +255,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attackData:
-  - damage: 50
+  - damage: 15
     knockback: 0
     angle: {x: 0, y: 0}
     layer: 7
-    attackType: 2
+    attackType: 5
+  - damage: 1
+    knockback: 0
+    angle: {x: 0, y: 0}
+    layer: 11
+    attackType: 5
   entity: {fileID: 0}
   toTheRight: 1
 --- !u!58 &1566486887972081695
