@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: BounceData
   m_EditorClassIdentifier: 
   health: 1
-  damage: 50
+  damage: 5
   speed: 3
-  explosion: {fileID: 8335995614613475259, guid: b7391a8d0630f3f4c884bc713436cfe4, type: 3}
+  explosion: {fileID: 7642034537371409235, guid: ecdb07d69ddd3554c9253d62c239b84f, type: 3}

@@ -30,6 +30,7 @@ namespace Entities
             Projectile,
             Electric,
             KillArea,
+            Bounce,
         }
     
         public List<AttackData> attackData;
