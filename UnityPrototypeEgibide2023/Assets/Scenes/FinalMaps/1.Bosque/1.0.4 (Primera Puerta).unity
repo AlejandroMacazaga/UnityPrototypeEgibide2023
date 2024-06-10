@@ -1513,8 +1513,12 @@ PrefabInstance:
       value: SceneChangeTrigger
       objectReference: {fileID: 0}
     - target: {fileID: 4619089038164939640, guid: 6154c12aeb5ba9943880e91a02545a87, type: 3}
+      propertyPath: onTheLeft
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4619089038164939640, guid: 6154c12aeb5ba9943880e91a02545a87, type: 3}
       propertyPath: scene.m_SceneName
-      value: 2.5
+      value: 1.0.9 (Bosque talado)
       objectReference: {fileID: 0}
     - target: {fileID: 4619089038164939640, guid: 6154c12aeb5ba9943880e91a02545a87, type: 3}
       propertyPath: requiredInputPress
@@ -3574,7 +3578,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &750155813
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4865,6 +4869,10 @@ PrefabInstance:
     - target: {fileID: 7938945537696981821, guid: 3627a29bfeeb6574d9b84768645a5e91, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8108041607744628821, guid: 3627a29bfeeb6574d9b84768645a5e91, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8815615322626844919, guid: 3627a29bfeeb6574d9b84768645a5e91, type: 3}
       propertyPath: m_SizeDelta.y

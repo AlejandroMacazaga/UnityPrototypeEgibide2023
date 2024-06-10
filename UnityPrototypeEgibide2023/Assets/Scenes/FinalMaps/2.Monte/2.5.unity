@@ -2249,31 +2249,35 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4619089038164939640, guid: 6154c12aeb5ba9943880e91a02545a87, type: 3}
       propertyPath: onTheLeft
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4619089038164939640, guid: 6154c12aeb5ba9943880e91a02545a87, type: 3}
       propertyPath: spawnPoint.x
-      value: 50
+      value: 78
       objectReference: {fileID: 0}
     - target: {fileID: 4619089038164939640, guid: 6154c12aeb5ba9943880e91a02545a87, type: 3}
       propertyPath: spawnPoint.y
-      value: 6.4
+      value: -5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4619089038164939640, guid: 6154c12aeb5ba9943880e91a02545a87, type: 3}
+      propertyPath: spawnPoint.z
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4619089038164939640, guid: 6154c12aeb5ba9943880e91a02545a87, type: 3}
       propertyPath: goToPosition.x
-      value: 48.55
+      value: 76
       objectReference: {fileID: 0}
     - target: {fileID: 4619089038164939640, guid: 6154c12aeb5ba9943880e91a02545a87, type: 3}
       propertyPath: goToPosition.y
-      value: 6.4
+      value: -5
       objectReference: {fileID: 0}
     - target: {fileID: 4619089038164939640, guid: 6154c12aeb5ba9943880e91a02545a87, type: 3}
       propertyPath: scene.m_SceneName
-      value: 1.0.4 (Primera Puerta)
+      value: 1.0.5 (Puente)
       objectReference: {fileID: 0}
     - target: {fileID: 4619089038164939640, guid: 6154c12aeb5ba9943880e91a02545a87, type: 3}
       propertyPath: useSceneChangeTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6961,7 +6965,7 @@ PrefabInstance:
     - target: {fileID: 3635881721762081195, guid: ca171ef3efe5f9d47963f4e9266ef228, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: ccbc8da4077f94241bc141aee9ed1b94, type: 2}
+      objectReference: {fileID: 2100000, guid: 339a725aee4e59442933c58e661dd74b, type: 2}
     - target: {fileID: 7593435301545843275, guid: ca171ef3efe5f9d47963f4e9266ef228, type: 3}
       propertyPath: m_LocalPosition.x
       value: -28.843143
@@ -9712,6 +9716,10 @@ PrefabInstance:
       propertyPath: m_TrackedObjectOffset.y
       value: -1
       objectReference: {fileID: 0}
+    - target: {fileID: 2575418826175245773, guid: b79f68355f896a04586835700a90f915, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.00000047683716
+      objectReference: {fileID: 0}
     - target: {fileID: 3103111677959427866, guid: b79f68355f896a04586835700a90f915, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -9762,7 +9770,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4401700721903503407, guid: b79f68355f896a04586835700a90f915, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.00000023841858
+      value: -0.00000047683716
       objectReference: {fileID: 0}
     - target: {fileID: 4401700721903503407, guid: b79f68355f896a04586835700a90f915, type: 3}
       propertyPath: m_LocalPosition.y
