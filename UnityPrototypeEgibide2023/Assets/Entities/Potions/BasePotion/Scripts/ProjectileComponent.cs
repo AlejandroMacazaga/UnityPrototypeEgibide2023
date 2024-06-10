@@ -24,7 +24,7 @@ namespace Entities.Potions.BasePotion.Scripts
 
         private void Start()
         {
-            SoundManager.Instance.CreateSound().WithSoundData(_soundData).WithPosition(gameObject.transform.position);
+            SoundManager.Instance.CreateSound().WithSoundData(_soundData).WithPosition(gameObject.transform.position).Play();
         }
 
         protected virtual void ActivateHitbox()
