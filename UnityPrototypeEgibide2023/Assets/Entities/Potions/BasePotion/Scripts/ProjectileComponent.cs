@@ -1,4 +1,6 @@
+using System;
 using UnityEngine;
+using Utils.SoundSystem;
 
 namespace Entities.Potions.BasePotion.Scripts
 {
@@ -11,6 +13,7 @@ namespace Entities.Potions.BasePotion.Scripts
         public float destroyTime = 1f;
         public int speed = 0;
         public Audios _audios;
+        [SerializeField] private SoundData _soundData;
         void Awake()
         {
             _attackComponents = GetComponentsInChildren<AttackComponent>(true);
@@ -18,7 +21,12 @@ namespace Entities.Potions.BasePotion.Scripts
             _audioSource ??= GetComponent<AudioSource>();
             Despawn();
         }
-        
+
+        private void Start()
+        {
+            SoundManager.Instance.CreateSound().WithSoundData(_soundData).WithPosition(gameObject.transform.position);
+        }
+
         protected virtual void ActivateHitbox()
         {
             foreach(AttackComponent ac in _attackComponents)
@@ -34,10 +42,6 @@ namespace Entities.Potions.BasePotion.Scripts
         
         private void Destroy()
         {
-            if ( _audioSource != null ) {
-                _audioSource.clip ??= _audios.audios[0];
-                _audioSource?.Play();
-            }
             Destroy(gameObject);
             
         }
