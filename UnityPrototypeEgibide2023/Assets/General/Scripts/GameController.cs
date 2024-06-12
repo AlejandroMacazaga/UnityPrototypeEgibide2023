@@ -20,6 +20,14 @@ namespace General.Scripts
         private string mainSceneName  = "1.0.1 (Tutorial)";
         private string mainMenuName = "Main MenuEstados";
         public List<int> collectedItems = new List<int>();
+        public int gisotzosKilled;
+        public int galtzagorrisKilled;
+        public int cabrasKilled;
+        public int arranosKilled;
+        public int brujasKilled;
+        
+        
+        
         
         public GameObject playerPrefab;
 

@@ -454,6 +454,8 @@ namespace Entities.Enemies.Arrano.Scripts
 
         public override void OnDeath()
         {
+            GameController.Instance.arranosKilled++;
+            
             attack.SetActive(false);
             flyingSpeed = flyingSpeed * 0.1f;
             _animator.SetBool("IsDead", true );
