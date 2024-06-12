@@ -353,6 +353,8 @@ namespace Entities.Enemies.Witch.Scripts
         /*Launches the teleport animation, then Destroys thw witch*/
         public override void OnDeath()
         {
+            GameController.Instance.brujasKilled++;
+            
             ActivateWitchDeathFast();
             ActivateAnimTeleport();
             /*Audio Risa*/

@@ -319,6 +319,8 @@ namespace Entities.Enemies.Galtzagorri.Scripts
         // Metodo con la lógica de la muerte
         public void Die()
         {
+            GameController.Instance.galtzagorrisKilled++;
+            
             // Iniciar la animación de "IsDead" (muerte)
             
             AnimationClip currentAnim = animator.GetCurrentAnimatorClipInfo(0)[0].clip;

@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using Entities.Enemies.Goat.Scripts.StatePattern;
+using General.Scripts;
 using JetBrains.Annotations;
 using UnityEngine;
 
@@ -85,6 +86,7 @@ namespace Entities.Enemies.Goat.Scripts
 
         public override void OnDeath()
         {
+            GameController.Instance.cabrasKilled++;
             //base.OnDeath();
             stateMachine.TransitionTo(stateMachine.GoatDeathState);
         }
@@ -97,6 +99,7 @@ namespace Entities.Enemies.Goat.Scripts
 
         private void Death()
         {
+            
             CancelInvoke(nameof(Move));
             Destroy(this);
         }
