@@ -1,25 +1,28 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
+using Entities;
 using UnityEngine;
 
-public class EffectosPlataforma : MonoBehaviour
+namespace Enviroment.Platforms
 {
-    [SerializeField] private ParticleSystem particulas;
-    // Start is called before the first frame update
-    void Start()
+    public class EffectosPlataforma : MonoBehaviour
     {
-        
-    }
+        [SerializeField] private ParticleSystem particulas;
+    
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+        public void OnTriggerEnter2D(Collider2D other)
+        {
+            if (!other.gameObject.TryGetComponent<EntityControler>(out var _)) return;
+            particulas.Play();
+        }
 
-    public void OnTriggerEnter2D(Collider2D other)
-    {
-        particulas.Play();
+        public void OnTriggerStay2D(Collider2D other)
+        {
+            if (!other.gameObject.TryGetComponent<EntityControler>(out var _)) return;
+            if (!other.gameObject.TryGetComponent<Rigidbody2D>(out var rb)) return;
+            if (rb.velocity.y < 0)
+            {
+                particulas.Play();
+            }
+        }
+        
     }
 }
