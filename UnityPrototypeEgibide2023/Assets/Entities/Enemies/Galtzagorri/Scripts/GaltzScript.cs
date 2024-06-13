@@ -213,6 +213,7 @@ namespace Entities.Enemies.Galtzagorri.Scripts
     
         public override void OnDeath()
         {
+            GameController.Instance.galtzagorrisKilled++;
             // TODO Logica de muerte relacionada
             animator.SetBool(IsIdle1, false);
             animator.SetBool(IsHurt, false);

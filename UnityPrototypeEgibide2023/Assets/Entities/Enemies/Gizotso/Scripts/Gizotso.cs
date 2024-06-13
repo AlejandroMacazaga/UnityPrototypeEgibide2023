@@ -1,4 +1,5 @@
 using System.Collections;
+using General.Scripts;
 using UnityEngine;
 
 namespace Entities.Enemies.Gizotso.Scripts
@@ -222,6 +223,8 @@ namespace Entities.Enemies.Gizotso.Scripts
         public override void OnDeath()
         {
             _isDying = true;
+
+            GameController.Instance.gisotzosKilled++;
             
             StopAllCoroutines();
             CancelInvoke();
