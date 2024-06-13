@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Str_TutorialsTable_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 5fd6a0eca7817cc48b0c44a906c7d6c7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 419271270400
+    m_Localized: '[W/A/S/D]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 574682816512
+    m_Localized: MOVIMIENTO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3510238437376
+    m_Localized: '[ESPACIO]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3561807405056
+    m_Localized: SALTAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4048099205120
+    m_Localized: '[SHIFT]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4084698701824
+    m_Localized: "DESPLAZAMIENTO R\xC1PIDO"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5349134557184
+    m_Localized: '[F]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5393095057408
+    m_Localized: "LANZAR POCI\xD3N"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6074791092224
+    m_Localized: '[SHIFT]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6159641862144
+    m_Localized: EL DESPLAZAMIENTO TE HACE INVULNERABLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6761822281728
+    m_Localized: 'INFO:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6812531417088
+    m_Localized: "LOS DOLMENES SIRVEN PARA CURARTE, GUARDAR LA PARTIDA Y COMO PUNTOS
+      DE REAPARICI\xD3N"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8318240415744
+    m_Localized: '[J/CLICK IZQUIERDO]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8347252416512
+    m_Localized: ATAQUE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9417143869440
+    m_Localized: "GOLPEA LA POCI\xD3N PARA EMPUJARLA O  MOVERTE EN EL AIRE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9376798859264
+    m_Localized: 'INFO:'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
