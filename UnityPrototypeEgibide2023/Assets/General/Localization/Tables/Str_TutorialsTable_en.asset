@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Str_TutorialsTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 5fd6a0eca7817cc48b0c44a906c7d6c7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 419271270400
+    m_Localized: '[W/A/S/D]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 574682816512
+    m_Localized: MOVEMENT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3510238437376
+    m_Localized: '[SPACE]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3561807405056
+    m_Localized: JUMP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4048099205120
+    m_Localized: '[SHIFT]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4084698701824
+    m_Localized: QUICK DASH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5349134557184
+    m_Localized: '[F]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5393095057408
+    m_Localized: THROW POTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6074791092224
+    m_Localized: '[SHIFT]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6159641862144
+    m_Localized: DASH MAKES YOU INVULNERABLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6761822281728
+    m_Localized: 'INFO:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6812531417088
+    m_Localized: THE DOLMENS ARE USED TO HEAL, SAVE THE GAME AND SPAWNPOINTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8318240415744
+    m_Localized: '[J/LEFT CLICK]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8347252416512
+    m_Localized: ATTACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9417143869440
+    m_Localized: TAP THE POTION TO PUSH IT OR TO MOVE IN THE AIR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9376798859264
+    m_Localized: 'INFO:'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

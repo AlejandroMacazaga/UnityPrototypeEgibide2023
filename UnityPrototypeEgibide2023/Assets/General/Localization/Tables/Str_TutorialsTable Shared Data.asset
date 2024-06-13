@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Str_TutorialsTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Str_TutorialsTable
+  m_TableCollectionNameGuidString: 5fd6a0eca7817cc48b0c44a906c7d6c7
+  m_Entries:
+  - m_Id: 419271270400
+    m_Key: Tuto_Movement_Line1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 574682816512
+    m_Key: Tuto_Movement_Line2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3510238437376
+    m_Key: Tuto_Jump_Line1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3561807405056
+    m_Key: Tuto_Jump_Line2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4048099205120
+    m_Key: Tuto_Dash_Line1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4084698701824
+    m_Key: Tuto_Dash_Line2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5349134557184
+    m_Key: Tuto_ThrowPotion_Line1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5393095057408
+    m_Key: Tuto_ThrowPotion_Line2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6074791092224
+    m_Key: Tuto_Invulnerability_Line1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6159641862144
+    m_Key: Tuto_Invulnerability_Line2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6761822281728
+    m_Key: Tuto_Respawn_Line1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6812531417088
+    m_Key: Tuto_Respawn_Line2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8318240415744
+    m_Key: Tuto_Attack_Line1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8347252416512
+    m_Key: Tuto_Attack_Line2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9376798859264
+    m_Key: Tuto_HitPotion_Line1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9417143869440
+    m_Key: Tuto_HitPotion_Line2
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5588394596004003864
+  references:
+    version: 2
+    RefIds:
+    - rid: 5588394596004003864
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1718273451689
