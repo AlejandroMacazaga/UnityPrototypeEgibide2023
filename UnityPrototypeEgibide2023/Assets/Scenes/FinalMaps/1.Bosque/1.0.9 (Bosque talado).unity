@@ -10886,12 +10886,12 @@ GameObject:
   - component: {fileID: 1152684814}
   - component: {fileID: 1152684813}
   m_Layer: 0
-  m_Name: mendia sign
+  m_Name: basoa sign
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!212 &1152684813
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10933,7 +10933,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: f24e3e4d3f1d282408ba9c6b52bf8ad9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 883bec856e741ba4e9388054400eb823, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -10953,7 +10953,7 @@ Transform:
   m_GameObject: {fileID: 1152684812}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 62.34, y: 0.01, z: 5.09}
+  m_LocalPosition: {x: 1.93, y: -0.5, z: 5.09}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children: []

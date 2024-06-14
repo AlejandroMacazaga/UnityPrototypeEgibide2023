@@ -5777,6 +5777,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: GameControler
       objectReference: {fileID: 0}
+    - target: {fileID: 1448536923363739435, guid: 3627a29bfeeb6574d9b84768645a5e91, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1448536923363739435, guid: 3627a29bfeeb6574d9b84768645a5e91, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1448536923363739435, guid: 3627a29bfeeb6574d9b84768645a5e91, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1448536923363739435, guid: 3627a29bfeeb6574d9b84768645a5e91, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2012929547845099297, guid: 3627a29bfeeb6574d9b84768645a5e91, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
