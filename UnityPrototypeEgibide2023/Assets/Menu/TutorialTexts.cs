@@ -15,10 +15,18 @@ namespace Menu
         [SerializeField] private GameObject line1;
         [SerializeField] private GameObject line2;
         [SerializeField] private GameObject image;
+        [SerializeField] private GameObject popup;
+        public bool tutorialCompleted;
 
         public void OnTriggerEnter2D(Collider2D other)
         {
             if (!other.CompareTag("Player")) return;
+
+            if (!tutorialCompleted)
+            {
+                popup.SetActive(true);
+                tutorialCompleted = true;
+            }
             
             image.SetActive(true);
             image.GetComponent<RawImage>().texture = control;
