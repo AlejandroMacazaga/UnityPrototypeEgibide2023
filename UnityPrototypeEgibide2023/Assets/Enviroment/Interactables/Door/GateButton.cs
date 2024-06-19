@@ -7,7 +7,8 @@ public class GateButton : MonoBehaviour
 {
     [SerializeField] private GameObject _gate2D;
     [SerializeField] private GameObject _gate3D;
-    [SerializeField] private float delay;
+    [SerializeField] private float opendelay;
+    [SerializeField] private float closedelay;
     private static readonly int IsAbierta = Animator.StringToHash("IsAbierta");
     private static readonly int IsCerrada = Animator.StringToHash("IsCerrada");
 
@@ -37,7 +38,7 @@ public class GateButton : MonoBehaviour
     {
         if (!other.CompareTag("PlayerHelper")) return;
         if (!other.name.Equals("EnemyDetection")) return;
-        Invoke(nameof(CloseGateAnim), delay - 0.4f);
+        Invoke(nameof(CloseGateAnim), opendelay - closedelay);
     }
 
     private void CloseGateAnim()
