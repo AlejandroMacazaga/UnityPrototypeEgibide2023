@@ -20003,6 +20003,7 @@ GameObject:
   - component: {fileID: 800164294062750096}
   - component: {fileID: 2449379726034168240}
   - component: {fileID: 5774820983098567901}
+  - component: {fileID: 6096520710685124729}
   m_Layer: 6
   m_Name: PlayerPrefab
   m_TagString: Player
@@ -20389,6 +20390,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   explosion: {fileID: 1266867429699652061, guid: 7ce027b4de00be1428e71ad3b8217ddb, type: 3}
   thunder: {fileID: 1266867429699652061, guid: ec67b8f63f9b3b2488fd048913b90480, type: 3}
+--- !u!114 &6096520710685124729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5937788470338340945}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e2ee281e6a1bd841aed3fd879462dea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fallDamageDistance: 20
 --- !u!1 &6033346189198568744
 GameObject:
   m_ObjectHideFlags: 0
