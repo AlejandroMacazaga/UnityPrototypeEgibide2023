@@ -47,7 +47,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5393095057408
-    m_Localized: EDABEA BOTATU
+    m_Localized: EDABEA
     m_Metadata:
       m_Items: []
   - m_Id: 6074791092224
@@ -81,6 +81,54 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 9376798859264
     m_Localized: 'INFO:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15280924105936896
+    m_Localized: Teklatua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15280926450552832
+    m_Localized: Sagua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15280928317018112
+    m_Localized: Kontrolatzailea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15286480627601408
+    m_Localized: Mugitzeko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15287702390607872
+    m_Localized: Astindu eta aldi baterako zauriezin izan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15288594028335104
+    m_Localized: Eraso etsaia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15289135089356800
+    m_Localized: Salto egiteko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15289669095559168
+    m_Localized: Edabea botatzeko, airera jo dezakezu gehiago botatzeko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15290361499652096
+    m_Localized: Edabe aldaketa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15290413135728640
+    m_Localized: Aldatu hautatutako edabea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15299109353984000
+    m_Localized: Itxi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15299110712938496
+    m_Localized: (Tutorialak berriro kontsulta ditzakezu egunkarian)
     m_Metadata:
       m_Items: []
   references:
