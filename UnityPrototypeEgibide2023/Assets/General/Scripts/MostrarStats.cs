@@ -16,10 +16,10 @@ public class MostrarStats : MonoBehaviour
     public void UpdateStats()
     {
         collectable.text = GameController.Instance.collectedItems.Count + "/10";
-        gisotzo.text = GameController.Instance.gisotzosKilled + "/Asesinados";
-        galtzagorri.text = GameController.Instance.galtzagorrisKilled + "/Asesinados";
-        cabra.text = GameController.Instance.cabrasKilled + "/Asesinados";
-        arrano.text = GameController.Instance.arranosKilled + "/Asesinados";
-        bruja.text = GameController.Instance.brujasKilled + "/Asesinados";
+        gisotzo.text = GameController.Instance.gisotzosKilled.ToString();
+        galtzagorri.text = GameController.Instance.galtzagorrisKilled.ToString();
+        cabra.text = GameController.Instance.cabrasKilled.ToString();
+        arrano.text = GameController.Instance.arranosKilled.ToString();
+        bruja.text = GameController.Instance.brujasKilled.ToString();
     }
 }

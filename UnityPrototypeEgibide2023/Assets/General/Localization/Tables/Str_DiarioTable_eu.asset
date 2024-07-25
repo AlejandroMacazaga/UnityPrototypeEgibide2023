@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Str_DiarioTable_eu
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: eu
+  m_SharedData: {fileID: 11400000, guid: 13b1e987332066c429beaaffc7a2a740, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 184657154048
+    m_Localized: Bidaia-bitakora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696395796480
+    m_Localized: Otsoa eta pertsona nahastuta izaki aberrantean! borroka fazle garaitzeko
+      dira baina bere zenbakiek borroka zailtzen dute.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1009525755904
+    m_Localized: Ipotx madarikatuak! Koldarrek beren ezkutalekutik eraso egiten dute,
+      eta bizkor salto egiten didate sastakatzera, duintasunez borrokatzeko ohorea
+      falta zaie.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077246988288
+    m_Localized: Inoiz ez nuen ikusi lur hauetan dauden ahuntzak bezain erasokorrak.
+      Haien erasoa galarazten ez bada tontorretatik jaitsiera azkar bat aurreikus
+      daiteke. Norberak galdetzen dio nola halako animalia otzanak eraso diezaiokeen
+      pertsona bati halako modura.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1124143501312
+    m_Localized: Deabruaren txoriak! Nahastuta zaudenean, zerutik jaisten dira traidorezko
+      pikor batekin.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1186349223936
+    m_Localized: Ni bezala Jaunaren bidea baztertu zuten emakumeak, baina beren nagusi
+      berria akerr da itzalpean kontrolatzen dituena. Aeronautika eta herbologia
+      dira nagusi eta borrokan erabiliko dituzte.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1229353422848
+    m_Localized: Lur hauetako izakien kontra nere gurutzada berria bukatu nahi banuke
+      eta Eliza Santuaren bideetara itzuli nahi banuen nire bizitza zaharrera, ez
+      nintzateke esku hutsik itzuli behar, galdutako erlikia hauek nire barkamena
+      lortu behar dute.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455405436928
+    m_Localized: Botilatxo batean ikazkinaren sumin lehergarria askatu dezaket.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1522015178752
+    m_Localized: Flasko honek, eztanda egitean, bere zatiak errebotatu eta bilaua
+      kaltetzen du.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1616315715584
+    m_Localized: Zeruko amorruaren boterea kontrola dezaket, etsaiak zeruetako tximista
+      ahaltsuagatik epaituta izango dira.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1692769488896
+    m_Localized: Iparraldeko lurretan baso trinkoak daude, non gudutik ihes egin
+      dezakedan, baina elezahar mitologikoak ezkutatzen dira.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1736113426432
+    m_Localized: Lurralde hauetako gailur garaiek pizti arriskutsuei eta agian ni
+      bezalako desertore pobre bati aterpea ematen ditzateke.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1821622702080
+    m_Localized: Lurraren erraietan izakirik gaiztoenak bizi dira, zeinek amaitu
+      behar dudan.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

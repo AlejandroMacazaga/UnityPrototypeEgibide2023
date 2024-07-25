@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Str_DiarioTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Str_DiarioTable
+  m_TableCollectionNameGuidString: 13b1e987332066c429beaaffc7a2a740
+  m_Entries:
+  - m_Id: 184657154048
+    m_Key: Diario_Bitacora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696395796480
+    m_Key: Diario_Gizotso_Lore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1009525755904
+    m_Key: Diario_Galtzagorri_Lore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077246988288
+    m_Key: Diario_Cabra_Lore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1124143501312
+    m_Key: Diario_Arrano_Lore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1186349223936
+    m_Key: Diario_Bruja_Lore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1229353422848
+    m_Key: Diario_Coleccionable_Lore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455405436928
+    m_Key: Diario_Explosiva_Lore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1522015178752
+    m_Key: Diario_Rebote_Lore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1616315715584
+    m_Key: Diario_Rayo_Lore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1692769488896
+    m_Key: Diario_Bosque_Lore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1736113426432
+    m_Key: Diario_Monte_Lore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1821622702080
+    m_Key: Diario_Cueva_Lore
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7166669043759316992
+  references:
+    version: 2
+    RefIds:
+    - rid: 7166669043759316992
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1721906180576

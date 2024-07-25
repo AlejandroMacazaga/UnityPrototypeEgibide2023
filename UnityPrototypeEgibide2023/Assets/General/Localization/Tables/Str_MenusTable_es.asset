@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Str_MenusTable_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 6979fce37e83fb9449d4253d07944ea8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 617266057216
+    m_Localized: Pausa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 622852870144
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 679371116544
+    m_Localized: Opciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 683196321792
+    m_Localized: Diario
+    m_Metadata:
+      m_Items: []
+  - m_Id: 795121324032
+    m_Localized: MenuPrincipal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 848070217728
+    m_Localized: "Espa\xF1ol"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880408301568
+    m_Localized: Vasco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 909369970688
+    m_Localized: Ingles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2260229459968
+    m_Localized: Volumen effectos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2377728692224
+    m_Localized: Volumen general
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2348351787008
+    m_Localized: Volumen musica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2400491180032
+    m_Localized: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5127967379456
+    m_Localized: Fin del juego!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5165825167360
+    m_Localized: Reintentar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30130897195008
+    m_Localized: "Bit\xE1cora de viaje"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30134240055296
+    m_Localized: Tutoriales
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30137306091520
+    m_Localized: Zonas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30363534266368
+    m_Localized: Utiles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30367451746304
+    m_Localized: Villanos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34719453188096
+    m_Localized: Cueva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34717767077888
+    m_Localized: Monte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34714533269504
+    m_Localized: Bosque
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36305420193792
+    m_Localized: Coleccionables
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36306858840064
+    m_Localized: Pocion explosiva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36309744521216
+    m_Localized: Pocion rayo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36307827724288
+    m_Localized: Pocion rebote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38174972481536
+    m_Localized: Gizotso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38177526812672
+    m_Localized: Galtzagorri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38184531300352
+    m_Localized: Bruja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38181129719808
+    m_Localized: Arrano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38178978041856
+    m_Localized: Cabra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40000786567168
+    m_Localized: Movimiento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40002032275456
+    m_Localized: Salto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40002871136256
+    m_Localized: Dash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40331901702144
+    m_Localized: Ataque
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40333176770560
+    m_Localized: Pocion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40802125123584
+    m_Localized: "Cambio de poci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1096075598139392
+    m_Localized: "\tAsesinados:"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
