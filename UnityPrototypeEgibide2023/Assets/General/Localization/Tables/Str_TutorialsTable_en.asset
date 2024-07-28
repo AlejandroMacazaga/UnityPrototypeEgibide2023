@@ -47,7 +47,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5393095057408
-    m_Localized: THROW POTION
+    m_Localized: POTION
     m_Metadata:
       m_Items: []
   - m_Id: 6074791092224
@@ -80,6 +80,55 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 9376798859264
     m_Localized: 'INFO:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15280924105936896
+    m_Localized: Keyboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15280926450552832
+    m_Localized: Mouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15280928317018112
+    m_Localized: Controler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15286480627601408
+    m_Localized: To move
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15287702390607872
+    m_Localized: Dash to be temporarily invulnerable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15288594028335104
+    m_Localized: Attack the enemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15289135089356800
+    m_Localized: To jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15289669095559168
+    m_Localized: To throw the potion, you can also hit it in the air to throw it
+      further
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15290361499652096
+    m_Localized: Potion change
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15290413135728640
+    m_Localized: Change the selected potion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15299109353984000
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15299110712938496
+    m_Localized: (You can check the tutorials again in the diary)
     m_Metadata:
       m_Items: []
   references:

@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Str_DiarioTable_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 13b1e987332066c429beaaffc7a2a740, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 184657154048
+    m_Localized: "Bit\xE1cora de viaje"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1821622702080
+    m_Localized: "En las  entra\xF1as de la tierra las criaturas mas malignas residen
+      a las cuales fin debo dar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1736113426432
+    m_Localized: Las altas cumbres de estas tierras cobijo dan a peligrosas bestias
+      y tal vez a pobre desertor como yo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1692769488896
+    m_Localized: "Las tierras del norte densos bosques contienen donde de la batalla
+      puedo huir, pero mitol\xF3gicas leyendas esconde, que debo vigilar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1616315715584
+    m_Localized: El poder de la furia celestial controlar puedo, los enemigos juzgados
+      seran por el poderoso rayo de los cielos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1522015178752
+    m_Localized: "Este frasco al detonar, hace sus fragmentos rebotar da\xF1ando
+      al villano."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455405436928
+    m_Localized: En ligero frasco la explosiva ira del carbonero puedo desatar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1229353422848
+    m_Localized: "Si mi nueva cruzada contra las criaturas de estas tierras deseara
+      rechazar y a mi antigua vida quisiera volver a los caminos de santa iglesia
+      con las manos vaci\xE1s no deber\xEDa regresar, estas reliquias perdidas mi
+      perd\xF3n deber\xE1n conseguir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1186349223936
+    m_Localized: "Mujeres que el camino del se\xF1or rechazaron como yo, pero su
+      nuevo amo no el maligno es que en las sombras las controla. La aeron\xE1utica
+      y la herbolog\xEDa dominan y en combate usaran. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1124143501312
+    m_Localized: Aves del diablo! cuando despistado uno se encuentra del cielo descienden
+      a traicionero picotazo dar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077246988288
+    m_Localized: "Jamas hab\xEDa visto cabras tan agresivas como las de estas tierras.
+      Si su ataque no es prevenido un veloz descenso de las cumbres uno puede anticipar.
+      Uno se pregunta como unos animales tan d\xF3ciles pueden atacar de tal manera
+      a una perso"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1009525755904
+    m_Localized: "Malditos enanos! los cobardes asaltan de su escondite en banda
+      y velozmente me saltan a apu\xF1alar, les falta el honor de luchar de manera
+      digna."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696395796480
+    m_Localized: "Lobo y persona mezclados en aberrante criatura! en combate f\xE1ciles
+      de derrotar son pero sus n\xFAmeros complican la batalla."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

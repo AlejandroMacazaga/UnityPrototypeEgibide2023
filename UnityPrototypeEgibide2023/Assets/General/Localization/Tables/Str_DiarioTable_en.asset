@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Str_DiarioTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 13b1e987332066c429beaaffc7a2a740, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 184657154048
+    m_Localized: Travel log
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696395796480
+    m_Localized: Wolf and person mixed into aberrant creature! In combat they are
+      easy to defeat but their numbers complicate the battle.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1009525755904
+    m_Localized: Damn dwarves! The cowards attack from their hiding place in a gang
+      and quickly jump to stab me, they lack the honour of fighting in a dignified
+      manner.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077246988288
+    m_Localized: I had never seen goats as aggressive as those in these lands. If
+      their attack is not prevented a rapid descent from the peaks one can anticipate.
+      One wonders how such docile animals can attack a person in such a way.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1124143501312
+    m_Localized: "Devil\u2019s birds! When you are confused, they descend from the
+      sky with a treacherous peck."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1186349223936
+    m_Localized: Women who rejected the way of the Lord like me, but their new master
+      the evil one controls them in the shadows. Aeronautics and herbology they dominate
+      and will be used in combat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1229353422848
+    m_Localized: If I wanted to reject my new crusade against the creatures of these
+      lands and I wanted to return to my old life to the paths of the Holy Church
+      with empty hands I should not return, these lost relics must obtain my forgiveness.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455405436928
+    m_Localized: In a light bottle I can unleash the explosive anger of the coalmaker.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1522015178752
+    m_Localized: When this jar detonates, its fragments bounce back, damaging the
+      villain.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1616315715584
+    m_Localized: I can control the power of heavenly fury, the enemies will be judged
+      by the powerful lightning of the heavens.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1692769488896
+    m_Localized: The northern lands contain dense forests where I can flee from battle,
+      but mythological legends hide, which I must fight.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1736113426432
+    m_Localized: The high peaks of these lands give shelter to dangerous beasts and
+      perhaps a poor deserter like me.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1821622702080
+    m_Localized: In the bowels of the earth the most evil creatures reside, whom
+      I must end.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

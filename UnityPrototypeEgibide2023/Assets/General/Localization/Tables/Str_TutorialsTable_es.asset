@@ -47,7 +47,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5393095057408
-    m_Localized: "LANZAR POCI\xD3N"
+    m_Localized: "POCI\xD3N"
     m_Metadata:
       m_Items: []
   - m_Id: 6074791092224
@@ -81,6 +81,55 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 9376798859264
     m_Localized: 'INFO:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15280928317018112
+    m_Localized: Mando
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15280926450552832
+    m_Localized: Raton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15280924105936896
+    m_Localized: Teclado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15286480627601408
+    m_Localized: Para moverte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15287702390607872
+    m_Localized: Hacer dash y ser invulnerable temporalmente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15288594028335104
+    m_Localized: Atacar al enemigo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15289135089356800
+    m_Localized: Para saltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15289669095559168
+    m_Localized: Para lanzar la pocion, tambien puedes golpearla en el aire para
+      lanzarla mas lejos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15290361499652096
+    m_Localized: Cambio de pocion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15290413135728640
+    m_Localized: Cambiar la pocion seleccionada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15299109353984000
+    m_Localized: Cerrar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15299110712938496
+    m_Localized: (Puedes volver a consultar los tutoriales en el diario)
     m_Metadata:
       m_Items: []
   references:

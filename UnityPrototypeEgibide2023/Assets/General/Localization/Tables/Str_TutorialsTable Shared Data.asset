@@ -79,6 +79,54 @@ MonoBehaviour:
     m_Key: Tuto_HitPotion_Line2
     m_Metadata:
       m_Items: []
+  - m_Id: 15280924105936896
+    m_Key: Tuto_Keyboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15280926450552832
+    m_Key: Tuto_Mouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15280928317018112
+    m_Key: Tuto_Controler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15286480627601408
+    m_Key: Tuto_Movement_Line3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15287702390607872
+    m_Key: Tuto_Dash_Line3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15288594028335104
+    m_Key: Tuto_Attack_Line3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15289135089356800
+    m_Key: Tuto_Jump_Line3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15289669095559168
+    m_Key: Tuto_ThrowPotion_Line3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15290361499652096
+    m_Key: Tuto_ChangePotion_Line1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15290413135728640
+    m_Key: Tuto_ChangePotion_Line2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15299109353984000
+    m_Key: Tuto_Close1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15299110712938496
+    m_Key: Tuto_Close2
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

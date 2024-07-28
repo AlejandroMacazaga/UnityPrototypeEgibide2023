@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Str_MenusTable_eu
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: eu
+  m_SharedData: {fileID: 11400000, guid: 6979fce37e83fb9449d4253d07944ea8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 617266057216
+    m_Localized: Pausa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 622852870144
+    m_Localized: Jarraitu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 679371116544
+    m_Localized: Aukerak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 683196321792
+    m_Localized: Egunkaria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 795121324032
+    m_Localized: Menu nagusia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 848070217728
+    m_Localized: Gaztelania
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880408301568
+    m_Localized: Euskara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 909369970688
+    m_Localized: Ingelesa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2348351787008
+    m_Localized: Musika bolumena
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2260229459968
+    m_Localized: Efektu bolumena
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2377728692224
+    m_Localized: Bolumen orokorra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2400491180032
+    m_Localized: Itzuli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5127967379456
+    m_Localized: Jokoaren amaiera!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5165825167360
+    m_Localized: Saiatu berriro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30130897195008
+    m_Localized: Bidaia-bitakora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30134240055296
+    m_Localized: Tutoretzak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30137306091520
+    m_Localized: Zonak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30363534266368
+    m_Localized: Tresnak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30367451746304
+    m_Localized: Gaiztoak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34714533269504
+    m_Localized: Basoa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34717767077888
+    m_Localized: Mendia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34719453188096
+    m_Localized: Cobazuloa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36305420193792
+    m_Localized: Bildumagaiak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36306858840064
+    m_Localized: Pozio leherkorra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36307827724288
+    m_Localized: Errebote pozioa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36309744521216
+    m_Localized: Tximista pozioa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38174972481536
+    m_Localized: Gizotso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38177526812672
+    m_Localized: Galtzagorri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38178978041856
+    m_Localized: Ahuntza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38181129719808
+    m_Localized: Arrano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38184531300352
+    m_Localized: Sorgina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40000786567168
+    m_Localized: Mugimendua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40002032275456
+    m_Localized: Jauzi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40002871136256
+    m_Localized: Dash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40331901702144
+    m_Localized: Jo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40333176770560
+    m_Localized: Edabea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40802125123584
+    m_Localized: Edabe aldaketa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1096075598139392
+    m_Localized: "\tHilduta:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2157863949340672
+    m_Localized: Eskerrik asko jolasteagatik!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2157865765474304
+    m_Localized: Utzi zure iruzkina gure itch.io-n
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160566578483200
+    m_Localized: Hautatu Gordetako Jokoa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2165155310637056
+    m_Localized: Itzuli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2165153486114816
+    m_Localized: Hurrengoa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2165934050283520
+    m_Localized: joko berria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2166386657628160
+    m_Localized: 'Prototipo hau Egibide Jesus Obrero zentroko "VR eta bideo-jokoen
+      espezializazioa" ikastaroko ikasleek garatu dute.
+
+      2024ko otsaila.
+
+      Gasteiz'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2166590781820928
+    m_Localized: "Kredituak:\n\n Etsaiak:\n RAUL ESTRADA GARCIA [Raultxo]\n Borroka:\n
+      ALEJANDRO LOPEZ DE GUERENU MACAZAGA [Dan(dy)]\n Sorgina:\n JON MANEIRO GARCIA
+      [congelado coffee]\n Inguruneak:\n EGOITZ PEREZ DE ARRILUCEA MONTEJO [GOTXI1000]\n
+      Menuak eta gordetzea:\n DAVID RAMIREZ SENSO\n Artea:\n ANDER RODRIGUEZ GANCEDO
+      [Andoru]\n Audioa eta kamera:\n MARKEL FERNANDEZ DE LABASTIDA\n\nAipamen berezia
+      irakasleei:\n\n 2D eta 3D diseinu grafikoa:\n GAIZKA BERTOL BAYON\n Bideo-jokoen
+      programazioa eta motorrak:\n INIGO GONZALEZ DE SAN ROMAN ANTOLIN\n Sare-programazioa
+      eta adimen artifiziala:\n LEIRE OZAETA RODRIGUEZ\n Kudeaketa, argitalpena eta
+      ekoizpena:\n LAURA DEL RIO MARTIN\n\n Musika:\n Oreka TX"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
