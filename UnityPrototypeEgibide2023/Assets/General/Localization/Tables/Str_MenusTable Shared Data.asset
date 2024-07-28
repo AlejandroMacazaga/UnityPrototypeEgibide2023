@@ -167,6 +167,38 @@ MonoBehaviour:
     m_Key: 'Menu_Asesinados:'
     m_Metadata:
       m_Items: []
+  - m_Id: 2157863949340672
+    m_Key: Menu_GraciasporJugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2157865765474304
+    m_Key: Menu_Comentario
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160566578483200
+    m_Key: Menu_SeleccionPartida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2165153486114816
+    m_Key: Menu_Siguiente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2165155310637056
+    m_Key: "Menu_Atr\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2165934050283520
+    m_Key: Menu_NuevaPartida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2166386657628160
+    m_Key: Menu_Creditos1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2166590781820928
+    m_Key: Menu_Creditos2
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

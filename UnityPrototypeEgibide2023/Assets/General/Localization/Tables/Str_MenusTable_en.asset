@@ -170,6 +170,51 @@ MonoBehaviour:
     m_Localized: "\tKilled:"
     m_Metadata:
       m_Items: []
+  - m_Id: 2157863949340672
+    m_Localized: Thanks for playing!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2157865765474304
+    m_Localized: Leave your comment on our itch.io
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160566578483200
+    m_Localized: Select Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2165155310637056
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2165153486114816
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2165934050283520
+    m_Localized: new game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2166386657628160
+    m_Localized: 'This prototype has been developed by the students of the course
+      "Specialization in VR and video games" of the Egibide Jesus Obrero center.
+
+      February
+      2024.
+
+      Vitoria-Gasteiz'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2166590781820928
+    m_Localized: "Credits:\n\nEnemies:\nRAUL ESTRADA GARCIA [Raultxo]\nCombat:\nALEJANDRO
+      LOPEZ DE GUERENU MACAZAGA [Dan(dy)]\nWitch:\nJON MANEIRO GARCIA [cafeconhelado]\nEnvironments:\nEGOITZ
+      PEREZ DE ARRILUCEA MONTEJO [GOTXI1000]\nMenus and saving:\nDAVID RAMIREZ SENSO\nArt:\nANDER
+      RODRIGUEZ GANCEDO [Andoru]\nAudio and camera:\nMARKEL FERNANDEZ DE LABASTIDA\n\nSpecial
+      mention to the teaching staff:\n\n2D and 3D graphic design:\nGAIZKA BERTOL
+      BAYON\nProgramming and video game engines:\nINIGO GONZALEZ DE SAN ROMAN ANTOLIN\nNetwork
+      programming and artificial intelligence:\nLEIRE OZAETA RODRIGUEZ\nManagement,
+      publication and production: \nLAURA DEL RIO MARTIN \u200BMusic: Oreka TX\u200B"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

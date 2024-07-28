@@ -170,6 +170,51 @@ MonoBehaviour:
     m_Localized: "\tHilduta:"
     m_Metadata:
       m_Items: []
+  - m_Id: 2157863949340672
+    m_Localized: Eskerrik asko jolasteagatik!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2157865765474304
+    m_Localized: Utzi zure iruzkina gure itch.io-n
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160566578483200
+    m_Localized: Hautatu Gordetako Jokoa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2165155310637056
+    m_Localized: Itzuli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2165153486114816
+    m_Localized: Hurrengoa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2165934050283520
+    m_Localized: joko berria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2166386657628160
+    m_Localized: 'Prototipo hau Egibide Jesus Obrero zentroko "VR eta bideo-jokoen
+      espezializazioa" ikastaroko ikasleek garatu dute.
+
+      2024ko otsaila.
+
+      Gasteiz'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2166590781820928
+    m_Localized: "Kredituak:\n\n Etsaiak:\n RAUL ESTRADA GARCIA [Raultxo]\n Borroka:\n
+      ALEJANDRO LOPEZ DE GUERENU MACAZAGA [Dan(dy)]\n Sorgina:\n JON MANEIRO GARCIA
+      [congelado coffee]\n Inguruneak:\n EGOITZ PEREZ DE ARRILUCEA MONTEJO [GOTXI1000]\n
+      Menuak eta gordetzea:\n DAVID RAMIREZ SENSO\n Artea:\n ANDER RODRIGUEZ GANCEDO
+      [Andoru]\n Audioa eta kamera:\n MARKEL FERNANDEZ DE LABASTIDA\n\nAipamen berezia
+      irakasleei:\n\n 2D eta 3D diseinu grafikoa:\n GAIZKA BERTOL BAYON\n Bideo-jokoen
+      programazioa eta motorrak:\n INIGO GONZALEZ DE SAN ROMAN ANTOLIN\n Sare-programazioa
+      eta adimen artifiziala:\n LEIRE OZAETA RODRIGUEZ\n Kudeaketa, argitalpena eta
+      ekoizpena:\n LAURA DEL RIO MARTIN\n\n Musika:\n Oreka TX"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

@@ -170,6 +170,53 @@ MonoBehaviour:
     m_Localized: "\tAsesinados:"
     m_Metadata:
       m_Items: []
+  - m_Id: 2157863949340672
+    m_Localized: Gracias por jugar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2157865765474304
+    m_Localized: Deja tu comentario en nuestro itch.io
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160566578483200
+    m_Localized: Seleccionar Partida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2165153486114816
+    m_Localized: Siguiente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2165155310637056
+    m_Localized: "Atr\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2165934050283520
+    m_Localized: nueva partida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2166386657628160
+    m_Localized: 'Este prototipo ha sido desarrollado por los alumnos del curso "Especializacion
+      en RV y videojuegos" del centro de Egibide Jesus Obrero.
+
+      Febrero  2024.
+
+      Vitoria-Gasteiz'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2166590781820928
+    m_Localized: "Creditos:\n\r\n    Enemigos:\r\n        RAUL ESTRADA GARCIA [Raultxo]\r\n   
+      Combate:\r\n        ALEJANDRO LOPEZ DE GUERENU MACAZAGA [Dan(dy)]\r\n    Bruja:\r\n       
+      JON MANEIRO GARCIA [cafeconhelado]\r\n    Entornos:\r\n        EGOITZ PEREZ
+      DE ARRILUCEA MONTEJO [GOTXI1000]\r\n    Menus y guardado:\r\n        DAVID
+      RAMIREZ SENSO\r\n    Arte:\r\n        ANDER RODRIGUEZ GANCEDO [Andoru]\r\n   
+      Audios y camara:\r\n        MARKEL FERNANDEZ DE LABASTIDA\r\n\r\nMencion especial
+      al profesorado:\r\n\r\n    Diseno grafico 2D y 3D:\r\n        GAIZKA BERTOL
+      BAYON\r\n    Programacion y motores de videojuegos:\r\n        INIGO GONZALEZ
+      DE SAN ROMAN ANTOLIN\r\n    Programacion en red y inteligencia artificial:\r\n       
+      LEIRE OZAETA RODRIGUEZ\r\n    Gestion, publicacion y produccion:\r\n       
+      LAURA DEL RIO MARTIN\r\n\r\n    \u200BMusica:\r\n        Oreka TX\u200B"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
