@@ -33708,6 +33708,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 8300000, guid: 0d482e18c4ae8544a8617f1b177d1ce1, type: 3}
     - target: {fileID: 8960239492271729879, guid: 45c99de0034fec04ca2f83f40396b526, type: 3}
+      propertyPath: musicaCueva
+      value: 
+      objectReference: {fileID: 8300000, guid: 0d482e18c4ae8544a8617f1b177d1ce1, type: 3}
+    - target: {fileID: 8960239492271729879, guid: 45c99de0034fec04ca2f83f40396b526, type: 3}
       propertyPath: MusicSliderVolume
       value: 
       objectReference: {fileID: 2272881632267705866}

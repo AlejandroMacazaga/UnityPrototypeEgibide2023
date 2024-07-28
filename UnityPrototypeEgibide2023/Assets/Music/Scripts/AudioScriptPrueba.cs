@@ -6,6 +6,7 @@ using UnityEngine.Audio;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using System;
+using UnityEngine.Serialization;
 
 namespace DigitalRuby.SoundManagerNamespace
 {
@@ -25,8 +26,9 @@ namespace DigitalRuby.SoundManagerNamespace
         private Slider sl;
 
         [SerializeField] AudioSource musicSource;
-        [SerializeField] AudioClip musica1;
-        [SerializeField] AudioClip musica2;
+        [FormerlySerializedAs("musica1")] [SerializeField] AudioClip musicaBosque;
+        [FormerlySerializedAs("musica2")] [SerializeField] AudioClip musicaMonte;
+        [FormerlySerializedAs("musica3")] [SerializeField] AudioClip musicaCueva;
         public float fadeDuration = 1.0f;
 
         private void Awake()
@@ -52,19 +54,28 @@ namespace DigitalRuby.SoundManagerNamespace
 
         private void OnSceneLoaded(Scene scene, LoadSceneMode arg1)
         {
-            Debug.Log("la escena cargada tiene un indice =" + scene.buildIndex);
+            //Debug.Log("la escena cargada tiene un indice =" + scene.buildIndex);
             switch (scene.buildIndex)
             {
                 case 1:
-                    audioScript.StartCoroutine(PlayMusicWithFade(musica1));
+                    audioScript.StartCoroutine(PlayMusicWithFade(musicaBosque));
+                    break;
+                case 5:
+                    audioScript.StartCoroutine(PlayMusicWithFade(musicaBosque));
+                    break;
+                case 12:
+                    audioScript.StartCoroutine(PlayMusicWithFade(musicaBosque));
                     break;
                 case 13:
-                    audioScript.StartCoroutine(PlayMusicWithFade(musica2));
+                    audioScript.StartCoroutine(PlayMusicWithFade(musicaMonte));
                     break;
-                // Agrega m�s casos seg�n sea necesario para tus escenas
-                default:
-                    //StartCoroutine(PlayDefaultMusicWithFade());
+                case 15:
+                    audioScript.StartCoroutine(PlayMusicWithFade(musicaMonte));
                     break;
+                case 18:
+                    audioScript.StartCoroutine(PlayMusicWithFade(musicaCueva));
+                    break;
+            
             }
         }
         private IEnumerator PlayMusicWithFade(AudioClip music)
