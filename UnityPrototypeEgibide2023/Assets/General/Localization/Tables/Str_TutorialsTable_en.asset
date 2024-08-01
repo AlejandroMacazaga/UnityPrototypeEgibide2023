@@ -131,6 +131,18 @@ MonoBehaviour:
     m_Localized: (You can check the tutorials again in the diary)
     m_Metadata:
       m_Items: []
+  - m_Id: 17791763044143104
+    m_Localized: THE BOUNCE POTION CAN DESTROY SOME ITEMS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17794535902711808
+    m_Localized: '[Q/E]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17812232812138496
+    m_Localized: THE THUNDER POTION CAN DESTROY SOME ITEMS
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
