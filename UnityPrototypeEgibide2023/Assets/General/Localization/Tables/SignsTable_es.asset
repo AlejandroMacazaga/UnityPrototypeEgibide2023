@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: SignsTable_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: c397371ca0c0f344b933ad4df94cec61, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9792425984
+    m_Localized: 548a3db12406c9645a5f8df1c7cc3d8b[Sign-bosque]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16704638976
+    m_Localized: 6bbd27f5b8c5e61419f698a8b5e19fd3[Sign-serreria]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20706004992
+    m_Localized: 2d0484380348ff04ebeb99bbf42f1179[Sign-monte]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31783161856
+    m_Localized: 38cc4ec0c65af054bac8480f2bbce4b7[Sign-cueva]
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
