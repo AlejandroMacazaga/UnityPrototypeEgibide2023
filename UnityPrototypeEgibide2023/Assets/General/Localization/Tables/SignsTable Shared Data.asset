@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: SignsTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: SignsTable
+  m_TableCollectionNameGuidString: c397371ca0c0f344b933ad4df94cec61
+  m_Entries:
+  - m_Id: 9792425984
+    m_Key: Bosque
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16704638976
+    m_Key: Aserradero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20706004992
+    m_Key: Monte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31783161856
+    m_Key: Cueva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4930537295872
+    m_Key: 1.0.4 (Primera Puerta)/mendia sign
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 3044652184759173131
+  m_KeyGenerator:
+    rid: 3044652184759173127
+  references:
+    version: 2
+    RefIds:
+    - rid: 3044652184759173127
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1722521131478
+    - rid: 3044652184759173131
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 16704638976
+          m_TableCodes:
+          - es
+          - eu
+          - en
+        - m_KeyId: 9792425984
+          m_TableCodes:
+          - es
+          - en
+          - eu
+        - m_KeyId: 20706004992
+          m_TableCodes:
+          - es
+          - en
+          - eu
+        - m_KeyId: 31783161856
+          m_TableCodes:
+          - es
+          - en
+          - eu
+        m_TypeString: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null

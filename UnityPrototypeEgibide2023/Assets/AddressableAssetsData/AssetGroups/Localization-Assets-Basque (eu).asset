@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Basque (eu)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Basque (eu)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: dac0415339efa1a47a45d5a2d7b501eb
+  m_SerializeEntries:
+  - m_GUID: 883bec856e741ba4e9388054400eb823
+    m_Address: basoa sign
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-eu
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31e2d9132b8605549ab195de1639acff
+    m_Address: Sign-Zerrategi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-eu
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf8df75f665eab242b31cf6430a9fda7
+    m_Address: Sign-kobazulo
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-eu
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4ca47541f21939489876c7a249665d0
+    m_Address: Sign-mendia
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-eu
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 9648d69298a2e804584033de10861f5e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 84ea4504eb4384a4088598af652e913c, type: 2}
+    - {fileID: 11400000, guid: 16ff872771c85c641b4cdd213d6c390b, type: 2}

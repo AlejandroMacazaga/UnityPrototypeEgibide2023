@@ -132,6 +132,18 @@ MonoBehaviour:
     m_Localized: (Puedes volver a consultar los tutoriales en el diario)
     m_Metadata:
       m_Items: []
+  - m_Id: 17791763044143104
+    m_Localized: LA POCION DE REBOTES PUEDE DESTRUIR ALGUNOS ELEMENTOS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17794535902711808
+    m_Localized: '[Q/E]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17812232812138496
+    m_Localized: LA POCION DE RAYO PUEDE DESTRUIR ALGUNOS ELEMENTOS
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
