@@ -144,9 +144,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c47d28e67f2164445bd4dd9ca47ec336, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  strTable: 
+  control: {fileID: 0}
   linea1: 
   linea2: 
-  tutorialUI: {fileID: 0}
+  line1: {fileID: 0}
+  line2: {fileID: 0}
+  image: {fileID: 0}
+  popup: {fileID: 0}
+  tutorialCompleted: 0
 --- !u!1 &7377620713516870116
 GameObject:
   m_ObjectHideFlags: 0

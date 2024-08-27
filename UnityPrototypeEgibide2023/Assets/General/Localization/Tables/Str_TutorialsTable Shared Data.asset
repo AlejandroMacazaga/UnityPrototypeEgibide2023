@@ -139,6 +139,30 @@ MonoBehaviour:
     m_Key: Tuto_RayoPotion_Line1
     m_Metadata:
       m_Items: []
+  - m_Id: 18867184972099584
+    m_Key: Tuto_PuertaAserradero_Line1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18867341314781184
+    m_Key: "Tuto_PuertaMonta\xF1a_Line1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18867532373716992
+    m_Key: Tuto_Puerta_Linea1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25754128117166080
+    m_Key: Tuto_DoubleJump1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25754131862679552
+    m_Key: Tuto_DoubleJump2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27323163975905280
+    m_Key: Tuto_DoubleJump3
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

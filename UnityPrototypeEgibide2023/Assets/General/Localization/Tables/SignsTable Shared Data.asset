@@ -35,9 +35,127 @@ MonoBehaviour:
     m_Key: 1.0.4 (Primera Puerta)/mendia sign
     m_Metadata:
       m_Items: []
+  - m_Id: 1049985431662592
+    m_Key: 2.3 (Unlock pocion rayo)/Textos/cambiar pocion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7909047830081536
+    m_Key: "2.1 (Inicio monta\xF1a)/GameControler/WorldAudio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7937561094549504
+    m_Key: GameControler/GameControler/CanvasGeneralsMenu/MenuDiario/Info/TutorialDobleSalto/VideoImageKeyboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7937584943362048
+    m_Key: GameControler/GameControler/CanvasGeneralsMenu/MenuDiario/Info/TutorialDobleSalto/VideoImageControler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7939050001166336
+    m_Key: GameControler/GameControler/CanvasGeneralsMenu/MenuDiario/Info/TutorialDobleSalto/ButtonControler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7939067952787456
+    m_Key: GameControler/GameControler/CanvasGeneralsMenu/MenuDiario/Info/TutorialDobleSalto/ButtonControler
+      (1)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7939623517712384
+    m_Key: GameControler/GameControler/CanvasGeneralsMenu/MenuDiario/Info/TutorialDobleSalto/ButtonKeyboard
+      (2)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7939670951096320
+    m_Key: GameControler/GameControler/CanvasGeneralsMenu/MenuDiario/Info/TutorialDobleSalto/ButtonKeyboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7939726521430016
+    m_Key: GameControler/GameControler/CanvasGeneralsMenu/MenuDiario/Info/TutorialDobleSalto/ButtonKeyboard
+      (1)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7947172052758528
+    m_Key: GameControler/GameControler/CanvasGeneralsMenu/MenuDiario/Bottones/btn_Tutoriales/GameObject/btn_Dash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7947182521741312
+    m_Key: GameControler/GameControler/CanvasGeneralsMenu/MenuDiario/Bottones/btn_Tutoriales/GameObject/btn_Jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7947208555786240
+    m_Key: GameControler/GameControler/CanvasGeneralsMenu/MenuDiario/Bottones/btn_Tutoriales/GameObject/btn_Movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7947295193329664
+    m_Key: GameControler/GameControler/CanvasGeneralsMenu/MenuDiario/Bottones/btn_Tutoriales/GameObject/btn_Attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7947320896024576
+    m_Key: GameControler/GameControler/CanvasGeneralsMenu/MenuDiario/Bottones/btn_Tutoriales/GameObject/btn_Potion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7947354693726208
+    m_Key: GameControler/GameControler/CanvasGeneralsMenu/MenuDiario/Bottones/btn_Tutoriales/GameObject/btn_PotionChange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7947380681633792
+    m_Key: GameControler/GameControler/CanvasGeneralsMenu/MenuDiario/Bottones/btn_Tutoriales/GameObject/btn_DoubleJump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9452929126526976
+    m_Key: 1.0.13 (Unlock DobleSalto)/[Space]ParaSaltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9498030519382016
+    m_Key: 1.0.13 (Unlock DobleSalto)/Textos/[SPACE + SHIFT] Dash aereo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9508016507088896
+    m_Key: 1.0.13 (Unlock DobleSalto)/Textos/[SPACE + SHIFT] Dash aereo 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9508262242971648
+    m_Key: 1.0.13 (Unlock DobleSalto)/Textos/[Space]ParaSaltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9508409823752192
+    m_Key: 1.0.13 (Unlock DobleSalto)/Textos/[Space]ParaSaltar 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9508443059417088
+    m_Key: 1.0.13 (Unlock DobleSalto)/Textos/[Space]ParaSaltar 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9508714405720064
+    m_Key: 1.0.13 (Unlock DobleSalto)/Textos/[SPACE + SHIFT] Dash aereo 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9511279595909120
+    m_Key: 1.0.13 (Unlock DobleSalto)/Textos/[SPACE + SHIFT] Dash aereo 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9513664049344512
+    m_Key: 1.0.1 (Tutorial)/Textos/[Shift]ParaHacerDashIrRapido (1)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9514420626288640
+    m_Key: 1.0.13 (Unlock DobleSalto)/Textos/[SPACE + SHIFT] Dash aereo 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9514590617235456
+    m_Key: 1.0.13 (Unlock DobleSalto)/Textos/[SPACE + SHIFT] Dash aereo 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518370716938240
+    m_Key: 1.0.13 (Unlock DobleSalto)/Canvas/TutorialButton
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items:
     - rid: 3044652184759173131
+    - rid: 3044652681035251717
+    - rid: 3044652682803675219
+    - rid: 3044652682803675231
   m_KeyGenerator:
     rid: 3044652184759173127
   references:
@@ -72,4 +190,68 @@ MonoBehaviour:
           - en
           - eu
         m_TypeString: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+    - rid: 3044652681035251717
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 7909047830081536
+          m_TableCodes:
+          - eu
+        m_TypeString: UnityEngine.AudioClip, UnityEngine.AudioModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+    - rid: 3044652682803675219
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 7937561094549504
+          m_TableCodes:
+          - en
+          - eu
+        - m_KeyId: 7937584943362048
+          m_TableCodes:
+          - en
+          - eu
+        m_TypeString: UnityEngine.RenderTexture, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+    - rid: 3044652682803675231
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 7939050001166336
+          m_TableCodes:
+          - en
+          - eu
+        - m_KeyId: 7939067952787456
+          m_TableCodes:
+          - en
+          - eu
+        - m_KeyId: 7939623517712384
+          m_TableCodes:
+          - en
+          - eu
+        - m_KeyId: 7939670951096320
+          m_TableCodes:
+          - en
+          - eu
+        - m_KeyId: 7939726521430016
+          m_TableCodes:
+          - en
+          - eu
+        - m_KeyId: 9508262242971648
+          m_TableCodes:
+          - en
+          - eu
+        - m_KeyId: 9511279595909120
+          m_TableCodes:
+          - en
+          - eu
+        - m_KeyId: 9514420626288640
+          m_TableCodes:
+          - eu
+        - m_KeyId: 9518370716938240
+          m_TableCodes:
+          - eu
+          - en
+        m_TypeString: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null

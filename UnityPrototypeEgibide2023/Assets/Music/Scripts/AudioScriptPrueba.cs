@@ -29,6 +29,7 @@ namespace DigitalRuby.SoundManagerNamespace
         [FormerlySerializedAs("musica1")] [SerializeField] AudioClip musicaBosque;
         [FormerlySerializedAs("musica2")] [SerializeField] AudioClip musicaMonte;
         [FormerlySerializedAs("musica3")] [SerializeField] AudioClip musicaCueva;
+        [FormerlySerializedAs("musica4")] [SerializeField] AudioClip musicaCreditos;
         public float fadeDuration = 1.0f;
 
         private void Awake()
@@ -74,6 +75,9 @@ namespace DigitalRuby.SoundManagerNamespace
                     break;
                 case 18:
                     audioScript.StartCoroutine(PlayMusicWithFade(musicaCueva));
+                    break;
+                case 22:
+                    audioScript.StartCoroutine(PlayMusicWithFade(musicaCreditos));
                     break;
             
             }

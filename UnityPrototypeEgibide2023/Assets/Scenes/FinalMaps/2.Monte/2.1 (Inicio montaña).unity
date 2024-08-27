@@ -4896,6 +4896,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3613432464098202332, guid: 3627a29bfeeb6574d9b84768645a5e91, type: 3}
+      propertyPath: musicaCreditos
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3931166516070474608, guid: 3627a29bfeeb6574d9b84768645a5e91, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -5027,8 +5031,71 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8910454513594005155, guid: 3627a29bfeeb6574d9b84768645a5e91, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 897036887}
   m_SourcePrefab: {fileID: 100100000, guid: 3627a29bfeeb6574d9b84768645a5e91, type: 3}
+--- !u!114 &897036885 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3613432464098202332, guid: 3627a29bfeeb6574d9b84768645a5e91, type: 3}
+  m_PrefabInstance: {fileID: 897036884}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 897036886}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb96a3802fe78d348a36ee7156572b9b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &897036886 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8910454513594005155, guid: 3627a29bfeeb6574d9b84768645a5e91, type: 3}
+  m_PrefabInstance: {fileID: 897036884}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &897036887
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 897036886}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69beb381e244f92449b8c4cf954630e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_TrackedObjects:
+  - rid: 3044652681035251714
+  references:
+    version: 2
+    RefIds:
+    - rid: 3044652681035251714
+      type: {class: TrackedMonoBehaviourObject, ns: UnityEngine.Localization.PropertyVariants.TrackedObjects, asm: Unity.Localization}
+      data:
+        m_Target: {fileID: 897036885}
+        m_TrackedProperties:
+          items:
+          - rid: 3044652681035251715
+        m_UpdateType: 0
+        m_Changed:
+          m_PersistentCalls:
+            m_Calls: []
+    - rid: 3044652681035251715
+      type: {class: LocalizedAssetProperty, ns: UnityEngine.Localization.PropertyVariants.TrackedProperties, asm: Unity.Localization}
+      data:
+        m_Localized:
+          rid: 3044652681035251716
+        m_PropertyPath: musicaCreditos
+    - rid: 3044652681035251716
+      type: {class: LocalizedAudioClip, ns: UnityEngine.Localization, asm: Unity.Localization}
+      data:
+        m_TableReference:
+          m_TableCollectionName: GUID:c397371ca0c0f344b933ad4df94cec61
+        m_TableEntryReference:
+          m_KeyId: 7909047830081536
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
 --- !u!1001 &908181986
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8261,7 +8328,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2575418826175245773, guid: b79f68355f896a04586835700a90f915, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.00000047683716
+      value: -0.00000023841858
       objectReference: {fileID: 0}
     - target: {fileID: 3103111677959427866, guid: b79f68355f896a04586835700a90f915, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8305,7 +8372,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4401700721903503407, guid: b79f68355f896a04586835700a90f915, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.00000047683716
+      value: -0.00000023841858
       objectReference: {fileID: 0}
     - target: {fileID: 4401700721903503407, guid: b79f68355f896a04586835700a90f915, type: 3}
       propertyPath: m_LocalPosition.y

@@ -16,7 +16,12 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 1efe2bdc08586784683c4187466888f2
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: f6a6fffd0e2a27c49b8610fa6de07fcb
+    m_Address: Assets/Enviroment/Platforms/Texto.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 9648d69298a2e804584033de10861f5e, type: 2}
   m_SchemaSet:

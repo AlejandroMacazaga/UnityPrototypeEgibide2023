@@ -37,6 +37,34 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: adefae72f9a558e45bc9fe0a152bb362
+    m_Address: button_a
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-eu
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ffbf42edd6e8b44fbe67f7e1cb5a42d
+    m_Address: key_shift
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-eu
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af4931a97e18e354c870df195e7f9064
+    m_Address: sPACEBAR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-eu
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a7c5c2b48513b94cb544ec33e2293c1
+    m_Address: button_b
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-eu
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 9648d69298a2e804584033de10861f5e, type: 2}
   m_SchemaSet:

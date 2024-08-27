@@ -143,6 +143,30 @@ MonoBehaviour:
     m_Localized: TXIMISTA-EDABEAK ZENBAIT OBJEKTU LEHERTU AHAL DITU
     m_Metadata:
       m_Items: []
+  - m_Id: 18867532373716992
+    m_Localized: '[E]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18867341314781184
+    m_Localized: MENDIAN SARTZEKO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18867184972099584
+    m_Localized: ZERRATEGIA SARTZEKO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25754128117166080
+    m_Localized: Aireko desplazamentu azkarra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25754131862679552
+    m_Localized: Airean desplazamentu azkarra egiteko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27323163975905280
+    m_Localized: '[SHIFT + W/S/A/D] Airean'
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
