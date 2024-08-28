@@ -150,12 +150,21 @@ MonoBehaviour:
     m_Key: 1.0.13 (Unlock DobleSalto)/Canvas/TutorialButton
     m_Metadata:
       m_Items: []
+  - m_Id: 9824929443508224
+    m_Key: BounceProjectile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9838049528410112
+    m_Key: BounceProjectile 1
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items:
     - rid: 3044652184759173131
     - rid: 3044652681035251717
     - rid: 3044652682803675219
     - rid: 3044652682803675231
+    - rid: 3044652800849215493
   m_KeyGenerator:
     rid: 3044652184759173127
   references:
@@ -255,3 +264,16 @@ MonoBehaviour:
           - en
         m_TypeString: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
+    - rid: 3044652800849215493
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 9824929443508224
+          m_TableCodes:
+          - eu
+        - m_KeyId: 9838049528410112
+          m_TableCodes:
+          - eu
+          - en
+        m_TypeString: Audios, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null

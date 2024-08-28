@@ -65,6 +65,13 @@ MonoBehaviour:
     - Locale-eu
     - Locale-en
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da33590554205cf4d99f37de446179c6
+    m_Address: BouncePotionAudios
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-eu
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 9648d69298a2e804584033de10861f5e, type: 2}
   m_SchemaSet:
